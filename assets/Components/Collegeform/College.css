@@ -1,0 +1,325 @@
+/* body{
+    background-color: #252055;
+} */
+/* .formcolor{
+    background-color: white;
+    width: 800px;
+    margin-left: 500px;
+    margin-top:100px;
+    height: 1400px;
+    border-radius: 5px;
+    padding-top: 30px;
+}
+.h3{
+    margin-left: 70px;
+    margin-top: -10px;
+}
+.h1{
+    margin-left: 70px;
+}
+.row{
+margin-top: 30px;
+}
+.name{
+    margin-left: 70px;
+    font-size: 20px;
+}
+.input1{
+    margin-left: 70px;
+    margin-top: 10px;
+      display: flex;
+    gap: 20px;
+}
+.text1{
+    padding: 10px;
+    width: 200px;
+    border-radius: 5px;
+}
+.text2{
+        padding: 10px;
+    width: 200px;
+    border-radius: 5px;
+}
+.text3{
+          padding: 10px;
+    width: 200px;
+    border-radius: 5px;
+}
+.first{
+    display: flex;
+    margin-left: 70px;
+    gap: 168px;
+    margin-top: 10px;
+}
+.birth{
+    margin-left: 70px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.options{
+    margin-top: 10px;
+    margin-left: 70px;
+         display: flex;
+    gap: 20px;
+}
+.select1{
+         padding: 10px;
+    width: 200px;
+    border-radius: 5px;
+}
+.select2{
+          padding: 10px;
+    width: 200px;
+    border-radius: 5px;
+}
+.select3{
+           padding: 10px;
+    width: 200px;
+    border-radius: 5px;
+}
+.month{
+    display: flex;
+    margin-left: 70px;
+    gap: 185px;
+    margin-top: 10px;
+}
+.gender{
+    display: flex;
+    margin-top: 10px;
+}
+.checkbox2{
+    margin-left: 70px;
+}
+.checkbox1{
+    margin-left: 70px;
+}
+.citizen{
+    display: flex;
+    margin-top: 20px;
+    gap: 300px;
+    font-size: 20px;
+    margin-left: 70px;
+}
+.please{
+           padding: 10px;
+    width: 200px;
+    border-radius: 5px;
+    margin-left: 160px;
+    width: 300px;
+}
+.male{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.female{
+        margin-top: 10px;
+    margin-left: 10px;
+}
+.phone{
+    display: flex;
+    margin-left: 70px;
+    font-size: 20px;
+    gap: 310px;
+    margin-top: 20px;
+}
+.number{
+    display: flex;
+    gap: 110px;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.number2{
+           padding: 10px;
+    width: 230px;
+    border-radius: 5px;
+}
+.mail{
+               padding: 10px;
+    width: 230px;
+    border-radius: 5px;
+}
+.example{
+    margin-left: 435px;
+    margin-top: 10px;
+}
+.mailing{
+    margin-top: 30px;
+    font-size: 20px;
+    margin-left: 70px;
+}
+.email{
+    margin-left: 70px;
+                padding: 10px;
+    width: 630px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.street{
+    margin-top: 10px;
+       margin-left: 70px;
+}
+.password{
+       margin-left: 70px;
+                padding: 10px;
+    width: 630px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.city{
+     margin-top: 10px;
+       margin-left: 70px;
+}
+.lahore{
+       margin-left: 70px;
+                padding: 10px;
+    width: 630px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.do{
+         margin-top: 20px;
+       margin-left: 70px;
+       font-size: 20px;
+}
+.checkboxes{
+    display: flex;
+    margin-left: 65px;
+    margin-top: 10px;
+}
+.yes{
+    margin-left: 5px;
+}
+.checkboxes2{
+    margin-left: 250px;
+}
+.no{
+    margin-left: 5px;
+}
+.list{
+       margin-top: 20px;
+       margin-left: 70px;
+       font-size: 20px;
+}
+.empty{
+        margin-left: 70px;
+                padding: 10px;
+    width: 630px;
+    border-radius: 5px;
+    margin-top: 10px;
+    height: 200px;
+}
+.button{
+    margin-top: 40px;
+    margin-left: 630px;
+}
+.row2{
+    margin-top: 50px;
+}
+.button2{
+    background-color: #2E69FF;
+    color: white;
+    padding: 10px;
+    width: 120px;
+    height: 50px;
+    border-radius: 5px;
+}
+.formcolor2{
+        background-color: white;
+    width: 800px;
+    margin-left: 500px;
+    margin-top:100px;
+    height: 480px;
+    border-radius: 5px;
+    padding-top: 30px;
+}
+.edu{
+    margin-left: 60px;
+}
+.high{
+    display: flex;
+    font-size: 20px;
+    margin-left: 60px;
+    gap: 120px;
+    margin-top: 10px;
+}
+.datetime{
+    margin-left: 60px;
+    display: flex;
+    gap: 90px;
+
+}
+.school{
+             padding: 10px;
+    width: 270px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.datetime2{
+                 padding: 10px;
+    width: 250px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.date{
+    margin-top: 10px;
+    margin-left: 450px;
+}
+.address{
+    font-size: 20px;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.address2{
+    display: flex;
+    margin-top: 10px;
+    gap: 90px;
+    margin-left: 60px;
+}
+.address3{
+               padding: 10px;
+    width: 270px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.address4{
+                     padding: 10px;
+    width: 250px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.province{
+     margin-top: 10px;
+    margin-left: 450px;
+}
+.line{
+    margin-top: 20px;
+}
+.button3{
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.button5{
+    margin-left: 610px;
+    margin-top: -48px;
+}
+.button4{
+    background-color: #CED0DA;
+       color:black;
+    padding: 10px;
+    width: 120px;
+    height: 50px;
+    border-radius: 5px;
+
+}
+.button6{
+    background-color: #295FE6;
+    color: white;
+        padding: 10px;
+    width: 120px;
+    height: 50px;
+    border-radius: 5px;
+}
+.postal{
+    margin-top: 10px;
+    margin-left: 70px;
+} */
